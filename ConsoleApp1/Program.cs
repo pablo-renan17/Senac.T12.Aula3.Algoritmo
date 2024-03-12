@@ -1,4 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
+//isso é uma linha de teste
 //Imprime um texto no console
 Console.WriteLine("Seja bem vindo");
 Console.WriteLine("Digite seu nome:");
